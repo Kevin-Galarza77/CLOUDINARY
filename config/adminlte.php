@@ -14,7 +14,7 @@ return [
     |
     */
 
-    'title' => 'Laravel LOGIN - CRUD ',
+    'title' => 'CLOUDINARY',
     'title_prefix' => 'LOGIN - CRUD',
     'title_postfix' => 'LOGIN - CRUD',
 
@@ -63,7 +63,7 @@ return [
     |
     */
 
-    'logo' => '<b>JKS</b>',
+    'logo' => '<b>IJKAS</b>',
     'logo_img' => 'https://cdn-icons-png.flaticon.com/512/722/722502.png',
     'logo_img_class' => 'brand-image  elevation-3',
     'logo_img_xl' => null,
